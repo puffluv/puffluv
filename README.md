@@ -12,7 +12,7 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVzeWw2Nj
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:alibihasenov@gmail.com'>aliibhasenov@gmail.com</a>
 </p>
 
 ---
