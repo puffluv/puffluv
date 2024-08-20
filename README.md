@@ -132,4 +132,10 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVzeWw2Nj
 
 ---
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/puffluv/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=puffluv&color=0D3D7B">
+   </a>
+</div>
+
 #
