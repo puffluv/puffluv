@@ -119,14 +119,14 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVzeWw2Nj
 ---
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puffluv&theme=dark" alt="profile"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puffluv&theme=transparent" alt="profile"/>
 	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puffluv&theme=dark" alt="repos"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puffluv&theme=dark" alt="most-commit"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puffluv&theme=transparent" alt="repos"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puffluv&theme=transparent" alt="most-commit"/>
 	</p>
 	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=puffluv&theme=dark" alt="stats"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puffluv&theme=dark&utcOffset=8" alt="productive"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=puffluv&theme=transparent" alt="stats"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puffluv&theme=transparent&utcOffset=8" alt="productive"/>
 	</p>
 </p>
 
