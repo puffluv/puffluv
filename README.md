@@ -6,9 +6,6 @@
 
 I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVzeWw2NjFmZGVlZzVtNXA4NGZhd2M2amxlNHp2aXV2anFuZTlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOaaBNOMTeHICzPHvo/giphy.gif" width="30"> Siberian St University of Telecommunications and Information Science.
 
-- 🌱 I'm a beginner web developer
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-
 <p align='center'>
    <a href="https://vk.com/darlingman">
        <img src="https://img.shields.io/badge/vkontakte-%230077B5.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
@@ -22,99 +19,69 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVzeWw2Nj
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+###
 
-<details align="center">
-   <summary>
-   Default - web3
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=css&theme=dark"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeSript" alt="TypeSript" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=svg&theme=dark" title="svg" alt="svg" width="40" height="40"/>&nbsp;
-	</p>
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
 
-<details align="center">
-   <summary>
-	Front-end
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="NextJs" alt="Java" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-	</p>
-</details>
+###
 
-<details align="center">
-   <summary>
-	Back-end
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-    </p>
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-<details align="center">
-   <summary>
-	Libs
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=threejs&theme=dark" title="ThreeJs" alt="ThreeJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=emotion&theme=dark" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=jquery&theme=dark" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=solidjs&theme=dark" title="Solidjs" alt="Solidjs" width="40" height="40"/>&nbsp;
-	</p>
-</details>
+###
 
-<details align="center">
-   <summary>
-	Ide - editor
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Vsc" alt="Vsc" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=idea&theme=dark" title="Ide" alt="Ide" width="40" height="40"/>&nbsp;
-    </p>
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
-<details align="center">
-   <summary>
-	Etc Helpers
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=md&theme=dark" title="MD" alt="MD" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="vite" alt="Vite" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
-    </p>
-</details>
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puffluv&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puffluv&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+
 
 ---
 
